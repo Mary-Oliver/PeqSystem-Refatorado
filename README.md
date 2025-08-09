@@ -11,7 +11,7 @@ Sistema de vendas desenvolvido em **Java**, refatorado aplicando princípios **S
 ## Tecnologias
 - Java
 - Swing (Interface gráfica)
-- Git e GitHub
+
 
 ## Como executar
 1. Clone este repositório:
