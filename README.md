@@ -27,3 +27,5 @@ Para rodar o projeto:
 
 ## Autor
 Mary Oliver
+
+🔄 Versão refatorada com foco em boas práticas de código.
